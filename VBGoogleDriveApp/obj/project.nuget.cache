@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ezOvNaMG4A7CgeG+jNlTn95kjNO0O6JTs5Byx1oivrGYPxcWvATLxXTzFZuOHqUPKJ0a0U6dLhgtQX9AC/2iRQ==",
+  "dgSpecHash": "/EkPBhN1QDvsOyeQMvL9jEJTDLOwVVMOs7xO/2t9kJCO5pbgCoSx8qVHnFszz0RNKddEBOj9v/qJST3Dka2Qbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\adolf\\source\\repos\\VBGoogleDriveApp\\VBGoogleDriveApp\\VBGoogleDriveApp.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\adolf\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
     "C:\\Users\\adolf\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
     "C:\\Users\\adolf\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
-    "C:\\Users\\adolf\\.nuget\\packages\\google.apis.drive.v2\\1.55.0.2530\\google.apis.drive.v2.1.55.0.2530.nupkg.sha512",
+    "C:\\Users\\adolf\\.nuget\\packages\\google.apis.drive.v3\\1.55.0.2566\\google.apis.drive.v3.1.55.0.2566.nupkg.sha512",
     "C:\\Users\\adolf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []

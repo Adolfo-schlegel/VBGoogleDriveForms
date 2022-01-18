@@ -44,9 +44,9 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
-            "Google.Apis.Drive.v2": {
+            "Google.Apis.Drive.v3": {
               "target": "Package",
-              "version": "[1.55.0.2530, )"
+              "version": "[1.55.0.2566, )"
             }
           },
           "imports": [

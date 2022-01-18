@@ -8,9 +8,7 @@ C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-w
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-windows\Google.Apis.Core.dll
-C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-windows\Google.Apis.Drive.v2.dll
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
-C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.vbproj.AssemblyReference.cache
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.Form1.resources
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.vbproj.GenerateResource.cache
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -22,3 +20,6 @@ C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-w
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\ref\VBGoogleDriveApp.dll
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.pdb
 C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.genruntimeconfig.cache
+C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.Resources.resources
+C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\adolf\source\repos\VBGoogleDriveApp\VBGoogleDriveApp\obj\Debug\net6.0-windows\VBGoogleDriveApp.vbproj.AssemblyReference.cache

@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.btnBuscar = New System.Windows.Forms.Button()
         Me.btnSubir = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
@@ -33,16 +34,16 @@ Partial Class Form1
         '
         Me.btnBuscar.Location = New System.Drawing.Point(12, 12)
         Me.btnBuscar.Name = "btnBuscar"
-        Me.btnBuscar.Size = New System.Drawing.Size(108, 23)
+        Me.btnBuscar.Size = New System.Drawing.Size(133, 23)
         Me.btnBuscar.TabIndex = 0
         Me.btnBuscar.Text = "Buscar Archivo"
         Me.btnBuscar.UseVisualStyleBackColor = True
         '
         'btnSubir
         '
-        Me.btnSubir.Location = New System.Drawing.Point(316, 196)
+        Me.btnSubir.Location = New System.Drawing.Point(398, 218)
         Me.btnSubir.Name = "btnSubir"
-        Me.btnSubir.Size = New System.Drawing.Size(75, 23)
+        Me.btnSubir.Size = New System.Drawing.Size(115, 23)
         Me.btnSubir.TabIndex = 1
         Me.btnSubir.Text = "Subir"
         Me.btnSubir.UseVisualStyleBackColor = True
@@ -50,7 +51,7 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(11, 61)
+        Me.Label1.Location = New System.Drawing.Point(20, 38)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(119, 15)
         Me.Label1.TabIndex = 2
@@ -59,7 +60,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(136, 61)
+        Me.Label2.Location = New System.Drawing.Point(145, 38)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(0, 15)
         Me.Label2.TabIndex = 3
@@ -67,7 +68,7 @@ Partial Class Form1
         'FilePath
         '
         Me.FilePath.AutoSize = True
-        Me.FilePath.Location = New System.Drawing.Point(136, 61)
+        Me.FilePath.Location = New System.Drawing.Point(145, 38)
         Me.FilePath.Name = "FilePath"
         Me.FilePath.Size = New System.Drawing.Size(0, 15)
         Me.FilePath.TabIndex = 4
@@ -76,14 +77,18 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(403, 231)
+        Me.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.ClientSize = New System.Drawing.Size(525, 253)
         Me.Controls.Add(Me.FilePath)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnSubir)
         Me.Controls.Add(Me.btnBuscar)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Google Drive File"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
